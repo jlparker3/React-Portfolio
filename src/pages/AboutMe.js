@@ -9,7 +9,6 @@ function AboutMe() {
                 <div className="jumbotron" id="name" style={{marginTop:"30px"}}>
 
                     <h1 className="display-2" style={{ color: "black" , justifyContent:"center"}} >Jessica Parker</h1>
-
                     
                 </div>
 
